@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/KenniO/akotfdevops/_apis/build/status/Kenniola.pipelines-java?branchName=master)](https://dev.azure.com/KenniO/akotfdevops/_build/latest?definitionId=11&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
